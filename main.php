@@ -99,6 +99,26 @@ function fetchVacancyDetails($vacancyId, $vacancyUrl)
     ];
 }
 
+function countSkills($vacancies)
+{
+    $skillCount = [];
+
+    foreach ($vacancies as $vacancy) {
+        if (isset($vacancy['key_skills']) && is_array($vacancy['key_skills'])) {
+            foreach ($vacancy['key_skills'] as $skill) {
+                if (!isset($skillCount[$skill])) {
+                    $skillCount[$skill] = 0;
+                }
+                $skillCount[$skill]++;
+            }
+        }
+    }
+
+    arsort($skillCount);
+
+    return $skillCount;
+}
+
 try {
     echo "Starting vacancy search for '$searchKeyword' in Uzbekistan areas\n";
     $startTime = microtime(true);
@@ -213,6 +233,16 @@ try {
         echo "Area: {$vacancy['area']['name']} (ID: {$vacancy['area']['id']})\n";
         echo "Key Skills: $skillsList\n\n";
     }
+
+    $skillsCount = countSkills($filteredVacancies);
+
+    echo "\n==== SKILLS FREQUENCY ====\n";
+    echo "Skills mentioned in all vacancies:\n";
+
+    foreach ($skillsCount as $skill => $count) {
+        echo "$skill keyskill $count times\n";
+    }
+    echo "\n";
 
     $outputFile = 'uz_vacancies_' . date('Y-m-d_His') . '.json';
     file_put_contents($outputFile, json_encode($filteredVacancies, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
