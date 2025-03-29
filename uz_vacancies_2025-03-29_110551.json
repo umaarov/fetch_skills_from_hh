@@ -1,0 +1,992 @@
+[
+    {
+        "id": "118812099",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118812099?host=hh.ru",
+        "key_skills": [
+            "Git",
+            "Dart",
+            "Flutter",
+            "CI\/CD",
+            "JSON API",
+            "SOLID"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118626720",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118626720?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118705397",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118705397?host=hh.ru",
+        "key_skills": [
+            "Мобилография",
+            "Рекламная съемка",
+            "Мобильная видеосъемка",
+            "Видеомонтаж",
+            "Видеосъемка",
+            "Обработка видео",
+            "Сценарии видео",
+            "Монтаж коротких видео",
+            "YouTube",
+            "Adobe Premiere Pro",
+            "Videoleap",
+            "DaVinci Resolve",
+            "Rich-контент",
+            "Adobe After Effects",
+            "Instagram"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118833230",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118833230?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2780",
+            "name": "Нукус"
+        }
+    },
+    {
+        "id": "117484955",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117484955?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118010486",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118010486?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117957532",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117957532?host=hh.ru",
+        "key_skills": [
+            "Adobe Photoshop",
+            "Web Design",
+            "Adobe Illustrator",
+            "UX",
+            "UI",
+            "iOS",
+            "Android",
+            "Usability",
+            "Figma",
+            "UX-исследования",
+            "UI Kit",
+            "Атомарный дизайн",
+            "User Flow",
+            "Работа в команде",
+            "Human Interface Guidelines",
+            "Дизайн интерфейсов"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118706092",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118706092?host=hh.ru",
+        "key_skills": [
+            "Flutter",
+            "SOLID",
+            "Realm"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117853870",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117853870?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "115984484",
+        "url": "https:\/\/api.hh.uz\/vacancies\/115984484?host=hh.ru",
+        "key_skills": [
+            "Работоспособность"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "116826297",
+        "url": "https:\/\/api.hh.uz\/vacancies\/116826297?host=hh.ru",
+        "key_skills": [
+            "Работоспособность"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117619328",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117619328?host=hh.ru",
+        "key_skills": [
+            "Android",
+            "iOS"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118699620",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118699620?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118355931",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118355931?host=hh.ru",
+        "key_skills": [
+            "Android",
+            "Java",
+            "Android Studio",
+            "Kotlin",
+            "Android SDK"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118348366",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118348366?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118856832",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118856832?host=hh.ru",
+        "key_skills": [
+            "Грамотная речь",
+            "Работа с клиентами",
+            "Опрятный внешний вид",
+            "Высокие коммуникативные навыки",
+            "Высокая энергичность и инициативность",
+            "Русский-В2-Средне-продвинутый",
+            "Узбекский-С1-Продвинутый"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118524598",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118524598?host=hh.ru",
+        "key_skills": [
+            "Android",
+            "Java",
+            "Тестирование Android-приложений",
+            "Kotlin",
+            "C#"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117830526",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117830526?host=hh.ru",
+        "key_skills": [
+            "Atlassian Jira",
+            "Конфигурационное тестирование",
+            "Предобработка данных",
+            "Тестирование баз данных",
+            "Postman",
+            "Политика тестирования",
+            "Scrum",
+            "Постановка задач разработчикам",
+            "Тестирование на проникновение",
+            "Тестирование"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "115710854",
+        "url": "https:\/\/api.hh.uz\/vacancies\/115710854?host=hh.ru",
+        "key_skills": [
+            "Unity",
+            "Работа в команде",
+            "Game Programming",
+            "gamedev"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118167703",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118167703?host=hh.ru",
+        "key_skills": [
+            "Android",
+            "Резервное копирование",
+            "Анализ данных",
+            "Atlassian Jira"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118601740",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118601740?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118180259",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118180259?host=hh.ru",
+        "key_skills": [
+            "Проведение тестирований",
+            "Работа в команде",
+            "Работа в условиях многозадачности"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118379829",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118379829?host=hh.ru",
+        "key_skills": [
+            "Flutter",
+            "Firebase"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118413496",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118413496?host=hh.ru",
+        "key_skills": [
+            "Linux",
+            "Русский язык",
+            "Flutter",
+            "Dart",
+            "GetX",
+            "Git",
+            "BLoC",
+            "JRPC",
+            "RESTful API",
+            "VSCode",
+            "Android Studio"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117880996",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117880996?host=hh.ru",
+        "key_skills": [
+            "Бдительность",
+            "Работа с документами",
+            "Опрятный внешний вид",
+            "Грамотная речь",
+            "Умение работать в коллективе",
+            "Отличное знание города"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118197238",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118197238?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118196823",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118196823?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117945534",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117945534?host=hh.ru",
+        "key_skills": [
+            "SQL",
+            "QA",
+            "Тестирование",
+            "Postman",
+            "REST",
+            "API",
+            "Atlassian Jira",
+            "Ручное тестирование",
+            "Agile"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118323011",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118323011?host=hh.ru",
+        "key_skills": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Figma",
+            "Веб-дизайн",
+            "UX",
+            "UI",
+            "Прототипирование",
+            "Material Design",
+            "Usability",
+            "Типографика",
+            "Адаптивный дизайн",
+            "Atomic Design"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118019620",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118019620?host=hh.ru",
+        "key_skills": [
+            "Видеомонтаж",
+            "Видеосъемка",
+            "YouTube",
+            "Монтаж развлекательных видео",
+            "СapCut",
+            "Rich-контент",
+            "Монтаж комммерческих видео",
+            "Мобильная видеосъемка",
+            "TikTok",
+            "Монтаж музыкальных клипов"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117135743",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117135743?host=hh.ru",
+        "key_skills": [
+            "Android",
+            "Android SDK",
+            "REST",
+            "MVC",
+            "MVP",
+            "MVVM",
+            "SQLite",
+            "Firebase",
+            "Git"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117962971",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117962971?host=hh.ru",
+        "key_skills": [
+            "Linux",
+            "Android"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118328617",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118328617?host=hh.ru",
+        "key_skills": [
+            "Flutter"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118251468",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118251468?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118029082",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118029082?host=hh.ru",
+        "key_skills": [
+            "Kotlin",
+            "multiplatform",
+            "Android",
+            "iOS",
+            "GraphQL",
+            "REST API",
+            "CI\/CD",
+            "E-Commerce",
+            "Git"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118344211",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118344211?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117985750",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117985750?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2784",
+            "name": "Коканд"
+        }
+    },
+    {
+        "id": "117820680",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117820680?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117871429",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117871429?host=hh.ru",
+        "key_skills": [
+            "курьер",
+            "Доставщик",
+            "Доставка продуктов",
+            "Подработка",
+            "подработка курьером",
+            "доставка",
+            "свободный график",
+            "доставка заказов",
+            "Курьерская доставка",
+            "подработка на выходные",
+            "подработка в вечернее время",
+            "Android",
+            "iOS",
+            "Легкие доставки",
+            "экспресс доставки",
+            "Работа в команде",
+            "Деловое общение",
+            "умение ориентироваться на карте",
+            "Вежливость",
+            "аккуратность",
+            "быстрая обучаемость",
+            "доставка товаров",
+            "Пунктуальность",
+            "организационные навыки",
+            "Легкая работа"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117770771",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117770771?host=hh.ru",
+        "key_skills": [
+            "Kotlin",
+            "Android SDK",
+            "Coroutines",
+            "Retrofit",
+            "MVVM",
+            "Koin",
+            "Room",
+            "Compose",
+            "Clean Architecture"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118681794",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118681794?host=hh.ru",
+        "key_skills": [
+            "Водительское удостоверение категории B",
+            "Персональный водитель",
+            "Семейный водитель",
+            "Курьерская доставка",
+            "Взаимодействие с курьерскими службами",
+            "Пунктуальность"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117609146",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117609146?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118073412",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118073412?host=hh.ru",
+        "key_skills": [
+            "Тестирование Android-приложений",
+            "Тестирование iOS-приложений",
+            "Xcode",
+            "Firebase",
+            "Git",
+            "React Native"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118407340",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118407340?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117795753",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117795753?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117326746",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117326746?host=hh.ru",
+        "key_skills": [
+            "room",
+            "Android SDK",
+            "Android Api",
+            "Firebase",
+            "Kotlin",
+            "Английский B2-C1"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118020276",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118020276?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118093681",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118093681?host=hh.ru",
+        "key_skills": [
+            "Flutter"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117439082",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117439082?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "116526880",
+        "url": "https:\/\/api.hh.uz\/vacancies\/116526880?host=hh.ru",
+        "key_skills": [
+            "Flutter",
+            "widget tree",
+            "Provider",
+            "Riverpod",
+            "iOS",
+            "Android",
+            "Swift",
+            "Kotlin",
+            "Java",
+            "Firebase",
+            "sdk",
+            "Flutter DevTools",
+            "СУБД",
+            "SQL"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118740352",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118740352?host=hh.ru",
+        "key_skills": [
+            "Персональный водитель",
+            "Водительское удостоверение категории B",
+            "Взаимодействие с курьерскими службами",
+            "Курьерская доставка"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118660501",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118660501?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117983484",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117983484?host=hh.ru",
+        "key_skills": [
+            "Unity",
+            "C#",
+            "Unity XR Toolkit",
+            "ARKit",
+            "ARCore",
+            "OpenXR"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118200788",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118200788?host=hh.ru",
+        "key_skills": [
+            "Java",
+            "Android SDK",
+            "Kotlin",
+            "Android",
+            "Git"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "110226389",
+        "url": "https:\/\/api.hh.uz\/vacancies\/110226389?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117857781",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117857781?host=hh.ru",
+        "key_skills": [
+            "курьер",
+            "Доставщик",
+            "Доставка продуктов",
+            "Подработка",
+            "подработка курьером",
+            "доставка",
+            "свободный график",
+            "доставка заказов",
+            "Курьерская доставка",
+            "подработка на выходные",
+            "подработка в вечернее время",
+            "Android",
+            "iOS",
+            "Легкие доставки",
+            "экспресс доставки",
+            "Работа в команде",
+            "Деловое общение",
+            "умение ориентироваться на карте",
+            "Вежливость",
+            "аккуратность",
+            "быстрая обучаемость",
+            "доставка товаров",
+            "Пунктуальность",
+            "организационные навыки",
+            "Легкая работа"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118864401",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118864401?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117917662",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117917662?host=hh.ru",
+        "key_skills": [
+            "Водительское удостоверение категории B",
+            "Курьерская доставка",
+            "Навигационные системы",
+            "Ориентация по карте",
+            "Правила дорожного движения",
+            "Эксплуатация легкового автомобиля",
+            "Честность",
+            "Ответственность",
+            "Работоспособность",
+            "Взаимодействие с курьерскими службами"
+        ],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118354311",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118354311?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118572203",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118572203?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118644427",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118644427?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118053700",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118053700?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117860945",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117860945?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117826830",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117826830?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118096669",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118096669?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117912832",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117912832?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118801493",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118801493?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118033847",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118033847?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117939649",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117939649?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118143346",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118143346?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118094582",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118094582?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "117887932",
+        "url": "https:\/\/api.hh.uz\/vacancies\/117887932?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118440358",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118440358?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118566464",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118566464?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118257075",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118257075?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    },
+    {
+        "id": "118338891",
+        "url": "https:\/\/api.hh.uz\/vacancies\/118338891?host=hh.ru",
+        "key_skills": [],
+        "area": {
+            "id": "2759",
+            "name": "Ташкент"
+        }
+    }
+]
